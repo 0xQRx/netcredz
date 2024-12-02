@@ -1,6 +1,9 @@
 # NetCredz
 
-NetCredz is a lightweight, dependency-free tool for extracting cleartext credentials and authentication data from network traffic. Inspired by PCredz, it provides enhanced functionality while maintaining simplicity and efficiency.
+NetCredz is a lightweight, dependency-free tool for extracting cleartext
+credentials and authentication data from network traffic. Inspired by
+[PCredz](https://github.com/lgandx/PCredz), it provides enhanced functionality
+while maintaining simplicity and efficiency.
 
 # Features
 
